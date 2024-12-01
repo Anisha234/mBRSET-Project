@@ -1,4 +1,4 @@
-# mBRSET: A Portable Retina Fundus Photos Benchmark Dataset for Clinical and Demographic Prediction 
+# I-Doctor: Detecting diseases based on images of the eye on a mobile device.
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
